@@ -1,0 +1,2 @@
+Définir une famille d’algorithmes, et encapsuler chacun et les rendre interchangeables tout en assurant que chaque algorithme puisse évoluer indépendamment des clients qui l’utilisent
+Un objet doit pouvoir faire varier une partie de son algorithme dynamiquement.
